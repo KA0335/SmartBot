@@ -19,10 +19,7 @@ Its still a work in progress.
    * PorterStemmer(): For finding the root word from the keywords
    * corpus.append(): storing the final keywords in the corpus
    
-* Online Code Review Tools(CodeGrip): It is an automated code review tool
-   * Allows the user to directly connect and import repositories from different platforms(GitHub,BitBucket)
-   * One click to analyse all the code to find issues-bugs,smells etc.
-   * Detailed Solution to the problems
+
 
 
 * Data sources
